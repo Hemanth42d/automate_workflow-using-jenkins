@@ -4,9 +4,9 @@ Depending on your apllication (Programming language), you need to have different
 
 There are 2 ways to install and configure these tools
   - Jenkins plugins
-    -Just install plugins(via UI) for your tool
+    - Just install plugins(via UI) for your tool
   - Install tools directly on the server.
-    -Acess remote server and install
+    - Acess remote server and install
       - If using docker then go into the container and then install them inside the container.
 
 In this repository we are going to see both the ways to install build tools required to create a job that can be freestyle job or pipeline etc..
