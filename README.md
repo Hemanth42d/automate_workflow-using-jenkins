@@ -9,7 +9,7 @@ There are 2 ways to install and configure these tools
     - Acess remote server and install
       - If using docker then go into the container and then install them inside the container.
 
-In this repository we are going to see both the ways to install build tools required to create a job that can be freestyle job or pipeline etc..
+In this repository we are going to see both the ways to install build tools used when we create a job that can be freestyle job or pipeline etc..
 
 ## Install Via Jenkins Plugins ( via UI ) for your tool
 
